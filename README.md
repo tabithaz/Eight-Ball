@@ -16,11 +16,10 @@ A Python terminal-based **Magic 8-Ball** game that gives fun, random answers to 
 Install `colorama`:
 ```bash
 pip install colorama
-````
+```
 
 ## How to Run
 
 ```bash
-python magic8ball.py
+python eightball.py
 ```
-
